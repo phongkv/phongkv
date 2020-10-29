@@ -15,6 +15,9 @@ const anmol = {
         },
         backEnd: {
             js: ["Javascript", "TypeScript", "Node", "Express"],
+        },
+        Database: {
+            js: ["MongoDB", "Firebase"],
         }
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
