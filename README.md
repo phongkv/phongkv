@@ -10,11 +10,11 @@ const anmol = {
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         frontEnd: {
-            js: ["React", "Jquery", "CSS"],
-            css: ["materialize", "Antd", "bootstrap"]
+            js: ["Javascript", "TypeScript", "React", "Jquery"],
+            css: ["Material-UI", "Antd", "Bootstrap", "Styled-component"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["Javascript", "TypeScript", "Node", "Express"],
         }
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
